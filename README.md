@@ -1,0 +1,1 @@
+# AI-SE-Week7_AI_ETHICS_Assignment
