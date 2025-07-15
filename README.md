@@ -22,51 +22,6 @@ A Jupyter Notebook analyzing fairness in a real-world AI application using the C
 
 > Tools used: AIF360 (IBM), Python, fairness metrics
 
-### 2. `BONUS.pdf`
-
-A policy guideline document titled **"Ethical AI Use in Healthcare"**, providing a framework for ensuring AI applications in medicine are trustworthy, fair, and patient-centric.
-
-- **Main Principles**:
-  - Patient Consent Protocols
-  - Bias Mitigation Strategies
-  - Transparency Requirements
-- **Suggested Actions**:
-  - Use explainable models
-  - Conduct regular bias audits
-  - Involve clinicians and regulators
-
-> Intended for use by healthcare providers, developers, and policymakers.
-
-### 3. `Week7_AI_Ethics_Assignment.txt` *(content provided via ChatGPT)*
-
-A complete written submission addressing all assignment prompts, including:
-
-- Definitions of **algorithmic bias**
-- Difference between **transparency** and **explainability**
-- Impact of **GDPR**
-- Case studies: **Amazon's hiring tool**, **Facial recognition in policing**
-- Fairness metrics: **Statistical Parity**, **Equal Opportunity**, **Predictive Parity**
-- Personal ethical reflection and bonus policy guidelines
-
-> This serves as the main report tying together the practical, theoretical, and ethical aspects of the week’s work.
-
----
-
-## Tools & Libraries Used
-
-- Python
-- Jupyter Notebook
-- IBM AI Fairness 360 Toolkit (AIF360)
-- PDF Authoring Tools (for BONUS guideline)
-
-## Author
-
-**Klaas Matlou**  
-Student at Power Learn Project  
-Week 7 – AI & Society Ethics Module
-
-## Submission Notes
-
-This assignment is submitted as part of the AI Ethics module, focusing on fairness, transparency, responsible AI, and compliance with legal frameworks like GDPR.
-
----
+1. **Klaas Matlou**
+2. * *  
+Student at Power Learn Project 
