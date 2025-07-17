@@ -21,17 +21,38 @@ A Jupyter Notebook analyzing fairness in a real-world AI application using the C
   - Post-processing calibration
 
 > Tools used: AIF360 (IBM), Python, fairness metrics
+> part 2 task 1 and part 3
+# AI Future Directions: Pioneering Tomorrow’s AI Innovations
 
-### 2. `Part 2`
+This repository contains my submission for the **AI Future Directions Assignment** under the theme **"Pioneering Tomorrow’s AI Innovations"**. It explores key emerging trends in artificial intelligence, including **Edge AI**, **AI-IoT**, **Human-AI Collaboration**, **Quantum AI**, and **Personalized Medicine**, through theoretical analysis, hands-on implementation, and critical reflection.
 
-A Part 2.md file with content on; 
+---
 
-- Analysis based on the sources of bias in Amazon AI recruiting tool
-- Three fixes to make the tool more fairer
-- Discussions on ethical risk involved in facial recognition system 
-  misidentifying minorities  
-- Recommended policies for responsible deployment
+## Contents Added
+
+###  Part 1: Essay Questions (Written Report)
+
+
+- Explained how **Edge AI** reduces latency and enhances privacy (with real-world examples).
+- Compared **Quantum AI** vs **Classical AI** in solving optimization problems.
+- Analyzed the **impact of Human-AI Collaboration** in healthcare.
+
+
+
+### 🔹 Part 3: Futuristic Proposal (2030 Vision)
+- Proposed an **AI-Powered Mental Health Companion**.
+- Described the workflow, benefits, and risks.
+- Location: [`/future_ai_2030/`](./future_ai_2030)
+
+### 🔸 Bonus Task (Optional)
+- Quantum circuit simulation using IBM Quantum Experience (if completed).
+- Location: [`/quantum_simulation/`](./quantum_simulation)
+
+---
+
+
 
 1. **Klaas Matlou**
-2. **Ikechukwu Agoha**  
+2. **Ikechukwu Agoha**
+3. **Albert Sipoi**  
 Student at Power Learn Project 
