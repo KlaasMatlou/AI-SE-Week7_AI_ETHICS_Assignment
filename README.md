@@ -44,9 +44,20 @@ This repository contains my submission for the **AI Future Directions Assignment
 - Described the workflow, benefits, and risks.
 - Location: [`/future_ai_2030/`](./future_ai_2030)
 
-### 🔸 Bonus Task (Optional)
-- Quantum circuit simulation using IBM Quantum Experience (if completed).
-- Location: [`/quantum_simulation/`](./quantum_simulation)
+###  `BONUS.pdf`
+
+A policy guideline document titled **"Ethical AI Use in Healthcare"**, providing a framework for ensuring AI applications in medicine are trustworthy, fair, and patient-centric.
+
+- **Main Principles**:
+  - Patient Consent Protocols
+  - Bias Mitigation Strategies
+  - Transparency Requirements
+- **Suggested Actions**:
+  - Use explainable models
+  - Conduct regular bias audits
+  - Involve clinicians and regulators
+
+> Intended for use by healthcare providers, developers, and policymakers.
 
 ---
 
